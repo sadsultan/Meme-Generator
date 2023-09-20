@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);;
+    padding: 20px;
+    height: 65px;
+
+    color: white;
+}
+
+.logo{ 
+   height: 100%;
+   padding: 6px;
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+.reference {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
